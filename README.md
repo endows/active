@@ -1,5 +1,5 @@
 # "今"を共有するためのソーシャルプラットフォーム
-<a href="http://just-demo.meteor.com/" target="\_blank">デモサイト</a>
+<a href="http://just-demo.meteor.com/" target='_blank'>デモサイト</a>
 (初期起動に数秒かかります)
 <!-- [デモサイト](http://just-demo.meteor.com/) -->
 
