@@ -1,5 +1,8 @@
 # "今"を共有するためのソーシャルプラットフォーム
-[デモサイト](http://just-demo.meteor.com/)(初期起動に数秒かかります)
+<a href="http://just-demo.meteor.com/" target="\_blank">デモサイト</a>
+(初期起動に数秒かかります)
+<!-- [デモサイト](http://just-demo.meteor.com/) -->
+
 
 #概要
 大切なのは"なにをするかより、誰とするか"。それはネットもリアルも変わりません。
