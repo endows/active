@@ -3,3 +3,12 @@ img{
   weight:30px;
   margin-left: 5px;
 }
+
+img.block{
+  width: 100%;
+  height: 100%;
+}
+
+.panel{
+  margin-top: 10px;
+}
